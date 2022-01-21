@@ -18,3 +18,9 @@ Code for - [Playing with Real Time Data Using #Python & #Wazirx #API in Tamil ( 
 English - https://youtu.be/rb_4MBScflo
 
 Code for - [Playing with Binance API Python #Binance #API #Python](https://github.com/teedlar/YT/blob/main/Binance%20API%20Python.ipynb)
+
+## Datetime
+
+English - https://youtu.be/9JNw9zjo_X0
+
+Code for - [Calculating DOB using python datetime | #python #dob](https://github.com/teedlar/YT/blob/main/datetime_teedlar.ipynb)
