@@ -24,3 +24,9 @@ Code for - [Playing with Binance API Python #Binance #API #Python](https://githu
 English - https://youtu.be/9JNw9zjo_X0
 
 Code for - [Calculating DOB using python datetime | #python #dob](https://github.com/teedlar/YT/blob/main/datetime_teedlar.ipynb)
+
+## Pytube
+
+English - https://youtu.be/C677XBCIP_4
+
+Code for - [Playing with YouTube Data using Python Module | #python #youtube #data](https://github.com/teedlar/YT/blob/main/pytube_teedlar.ipynb)
